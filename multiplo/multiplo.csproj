@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <Description>Test multiplo</Description>
+	  <Authors>Yilber Espitia</Authors>
+	  <Company>Gran Titan</Company>
+	  <Product>Test</Product>
+	  <PackageId>GT.DotnetCoreEsencial.Multiplo</PackageId>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
